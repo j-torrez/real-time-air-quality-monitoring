@@ -58,3 +58,7 @@ This project aims to provide a comprehensive solution for real-time air quality 
 
    ```bash
    npm start
+
+## Accessing the Application
+
+Open your web browser and go to http://localhost:3000 to view the application.
