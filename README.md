@@ -2,6 +2,16 @@
 
 This project aims to provide a comprehensive solution for real-time air quality monitoring and visualization using advanced computer science techniques. The system collects air quality data from simulated sensors, processes the data, and provides intuitive visualizations to inform users about the air quality in their environment.
 
+## Screenshots
+![Application Screenshot](screenshots/screen1.png)
+![Application Screenshot](screenshots/screen2.png)
+![Application Screenshot](screenshots/screen3.png)
+![Application Screenshot](screenshots/screen4.png)
+![Application Screenshot](screenshots/screen5.png)
+![Application Screenshot](screenshots/screen6.png)
+![Application Screenshot](screenshots/screen7.png)
+
+
 ## Features
 
 - **Simulated Real-Time Data**: Generates realistic air quality data with daily and seasonal variations.
