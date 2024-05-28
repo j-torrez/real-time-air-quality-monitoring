@@ -15,27 +15,6 @@ This project aims to provide a comprehensive solution for real-time air quality 
 - **Frontend**: React, Chart.js, Material-UI
 - **Languages**: Python, JavaScript
 
-## Project Structure
-real-time-air-quality-monitoring/
-│
-├── backend/
-│ ├── app.py
-│ └── venv/
-│ └── ...
-│
-├── frontend/
-│ ├── public/
-│ │ └── index.html
-│ ├── src/
-│ │ ├── App.js
-│ │ ├── index.js
-│ │ └── index.css
-│ ├── package.json
-│ └── package-lock.json
-│
-└── README.md
-
-
 ## Getting Started
 
 ### Prerequisites
@@ -59,4 +38,23 @@ real-time-air-quality-monitoring/
 	```bash
 	pip install flask flask-cors
 
+4. **Run the Flask server:**
+	```bash
+	python app.py
 
+### Frontend Setup
+
+1. **Navigate to the frontend directory:**:
+
+   ```bash
+   cd ../frontend
+
+2. **npm install**
+
+   ```bash
+   npm install
+
+3. **Start the React application:**
+
+   ```bash
+   npm start
